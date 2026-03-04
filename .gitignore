@@ -1,0 +1,15 @@
+```text
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Vector Database (Local Index)
+faiss_index_reliance_global/
+
+# Operating System files
+.DS_Store
+Thumbs.db
